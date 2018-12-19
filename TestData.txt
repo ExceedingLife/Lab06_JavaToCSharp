@@ -1,0 +1,26 @@
+Enter your answers to the exam questions. (Make sure Caps Lock is ON!)
+Question 1: A
+Question 2: B
+Question 3: C
+Question 4: D
+Question 5: B
+Question 6: A
+Question 7: C
+Question 8: D
+Question 9: C
+Question 10: A
+Question 11: B
+Question 12: D
+Question 13: D
+Question 14: A
+Question 15: B
+Question 16: C
+Question 17: D
+Question 18: C
+Question 19: B
+Question 20: A
+Correct answers: 7
+Incorrect answers: 13
+You failed the exam.
+You missed the following questions:
+1 2 3 4 5 7 8 10 12 15 17 18 19
